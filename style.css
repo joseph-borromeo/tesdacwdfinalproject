@@ -1,0 +1,67 @@
+
+
+#card1  {
+    border: .1px rgb(231, 231, 231) solid;
+    box-shadow: 0px 0px white;
+}
+
+#unpw   {
+    font-size: small; 
+    font-weight: 200;   
+}
+
+#loginbtn1   {
+    border: none;
+    border-radius: 12px;
+    color: white;
+    text-align: center;
+    display: inline-block;
+    margin: 5px 2px;
+    font-size: x-small;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: normal;
+    width: 100%;
+}
+
+#loginbtn2  {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: grey;
+}
+
+#searchbar  {
+    background-color: rgb(234, 234, 234);
+    box-shadow: 0px 0px rgb(234, 234, 234);
+    border-radius: 12px;
+    
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #ffffff;
+    position: fixed;
+    border-right: 1px rgb(207, 207, 207) solid;
+
+  }
+  
+  li a {
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+    font-size: small;
+    font-weight: 400;
+  }
+  
+  /* Change the link color on hover */
+  li a:hover {
+    background-color: #c1c1c1;
+    color: white;
+    border-radius: 12px;
+  }
+
+
+  li a:active  {
+    font-weight: 700;
+  }
